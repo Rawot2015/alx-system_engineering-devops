@@ -1,4 +1,0 @@
-cwd=$(pwd)
-absolute_path=$(realpath $cwd)
-
-echo $absolute_path
